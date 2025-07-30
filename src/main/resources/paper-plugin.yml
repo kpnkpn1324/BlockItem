@@ -1,0 +1,4 @@
+name: BlockItem
+version: '1.0-SNAPSHOT'
+main: project.blockItem.BlockItem
+api-version: '1.20'

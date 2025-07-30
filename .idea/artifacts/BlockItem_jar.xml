@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockItem:jar">
+    <output-path>$PROJECT_DIR$/../../마인크래프트 server/마인크래프트 엔더드래곤 알 100일 서바이벌/plugins</output-path>
+    <root id="archive" name="BlockItem.jar">
+      <element id="module-output" name="BlockItem" />
+    </root>
+  </artifact>
+</component>
